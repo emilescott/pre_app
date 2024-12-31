@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "612806489108",
+    "project_id": "presence-1be85",
+    "storage_bucket": "presence-1be85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612806489108:android:2007df989fe3423e1a2301",
+        "android_client_info": {
+          "package_name": "com.example.ac_agadir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEIb8ex9kcV-t0OjHcoxLJUpYK3pDh8AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612806489108:android:bef20d10e8c8bae71a2301",
+        "android_client_info": {
+          "package_name": "com.example.preapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEIb8ex9kcV-t0OjHcoxLJUpYK3pDh8AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
